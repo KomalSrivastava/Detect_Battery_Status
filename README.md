@@ -6,4 +6,7 @@
 -Display current battery percentage
 -Detect whether the device is charging or discharging
 -Estimate the time remaining for the battery to fully charge or discharge
+
+![Screenshot 2024-05-30 214716](https://github.com/KomalSrivastava/Detect_Battery_Status/assets/132221203/da284d51-18af-4464-b53e-3341a8825925)
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
